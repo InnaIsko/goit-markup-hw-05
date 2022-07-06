@@ -450,6 +450,7 @@ img {
   font-style: normal;
 
   display: block;
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-title {
   color: var(--fotter-text-title);
@@ -458,6 +459,7 @@ img {
   font-style: normal;
 
   display: block;
+  transition: color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .footer-texst {
   margin-top: 9px;
